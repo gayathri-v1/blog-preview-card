@@ -1,0 +1,78 @@
+.attribution {
+     font-size: 11px; 
+     text-align: center; 
+     margin-top: 1.5%;
+     
+}
+    .attribution a { 
+    color: hsl(228, 45%, 44%); 
+    
+
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    padding: 150px 0;    
+}
+.upper{
+
+    background-color: hsl(0, 0%, 100%);
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  height: 400px;
+  width: 250px;
+  border: 1px solid hsl(0, 0%, 7%);
+  box-shadow: 8px 8px;
+  border-radius: 5%;
+  padding: 2%;
+  /* text-align: center; */
+  margin: auto;
+  
+}
+svg{
+    margin: auto;
+    border-radius: 5%;
+    height: 150px;
+    width: 100%;
+    
+      
+} 
+h6{
+    background-color: hsl(47, 88%, 63%);
+    padding: 6px 8px 6px 8px;
+    width:fit-content;
+    border-radius: 5px;
+}
+
+.image-ava{
+    float: left;
+    padding-right: 4%;
+    height: 30px;
+    width: 10%;
+   
+}
+.text{
+    
+    float:left;
+    display: flex;
+    margin:auto;
+    padding-top: 3%;
+    
+}
+.a{
+    color: hsl(0, 0%, 7%);
+    font-size: 13px;
+
+}
+.b{
+color:hsl(0, 0%, 50%) ;
+font-size: 15px;
+}
+.text:hover{
+    color:blueviolet;
+}
+
+
+
+
